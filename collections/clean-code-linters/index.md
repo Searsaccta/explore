@@ -23,5 +23,5 @@ items:
  - koalaman/shellcheck
 display_name: Clean code linters
 created_by: holman
----
-Make sure your code matches your style guide with these essential code linters.
+a---
+Make sure styleguide with these essential codes a--- upload data.
